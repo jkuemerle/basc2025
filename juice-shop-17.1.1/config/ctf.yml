@@ -1,0 +1,18 @@
+application:
+  logo: JuiceShopCTF_Logo.png
+  favicon: favicon_ctf.ico
+  showVersionNumber: false
+  showGitHubLinks: false
+  localBackupEnabled: false
+  welcomeBanner:
+    showOnFirstStart: false
+  name: 'BASC CTF'
+  theme: blue-lightblue # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
+challenges:
+  showHints: true
+  safetyMode: disabled
+  showFeedbackButtons: false
+hackingInstructor:
+  isEnabled: false
+ctf:
+  showFlagsInNotifications: true

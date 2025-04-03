@@ -1,0 +1,25 @@
+.model {
+  position: fixed;
+  left: 0;
+  width: 100%;
+}
+
+.status-bar {
+  border-bottom: 1px solid #ccc;
+  padding: 5px;
+}
+
+.timer-wrapper {
+  position: fixed;
+  left: 5px;
+  bottom: 5px;
+  background-color: white;
+}
+
+.player-wrap {
+  position: relative;
+}
+
+.player-wrap:hover {
+  z-index: 1;
+}

@@ -1,0 +1,18 @@
+- name: BASC 001
+  description: >+
+    Where is BASC held?
+    (Difficulty Level: 1)
+  max_attempts: 0
+  value: 20
+  category: BASC
+  state: visible
+  type: standard 
+  flags:
+    - type: static
+      content: Burlington
+      data: null
+  hints:
+    - type: standard
+      content: Enter the name of the city you are in.
+      cost: 0
+      requirements: null

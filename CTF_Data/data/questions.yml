@@ -1,0 +1,22 @@
+- name: Question 001
+  description: >+
+    What is the CIA triad?<br/>
+    a) A security pillar for information security<br/>
+    b) Civilian foreign intelligence service of the federal government of the US<br/>
+    c) Security controls that guide information security<br/>
+    d) Closure, intelligence, and admission<br/>
+    (Difficulty Level: 1)
+  max_attempts: 0
+  value: 20
+  category: Questions
+  state: visible
+  type: standard 
+  flags:
+    - type: static
+      content: c
+      data: null
+  hints:
+    - type: standard
+      content: Enter the letter of the correct answer.
+      cost: 0
+      requirements: null
